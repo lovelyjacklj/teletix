@@ -5,7 +5,7 @@ import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 const Chart = () => {
 const[data, setData]= useState([]);
   const getData =  async()=>{
-  const vehicles = await fetch('http://192.168.18.50:8888/home/UserVehicles?username=fn_amir&password=YW1pcg==');
+  const vehicles = await fetch('http://124.29.208.13:8888/home/UserVehicles?username=fn_amir&password=YW1pcg==');
   setData( await vehicles.json());
   
 }
