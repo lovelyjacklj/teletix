@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/teletix/static/css/main.6d3adef7.chunk.css",
-    "main.js": "/teletix/static/js/main.41b2675d.chunk.js",
-    "main.js.map": "/teletix/static/js/main.41b2675d.chunk.js.map",
+    "main.js": "/teletix/static/js/main.0096bc73.chunk.js",
+    "main.js.map": "/teletix/static/js/main.0096bc73.chunk.js.map",
     "runtime-main.js": "/teletix/static/js/runtime-main.55fef1c1.js",
     "runtime-main.js.map": "/teletix/static/js/runtime-main.55fef1c1.js.map",
     "static/css/2.9082872e.chunk.css": "/teletix/static/css/2.9082872e.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.9082872e.chunk.css",
     "static/js/2.429edb81.chunk.js",
     "static/css/main.6d3adef7.chunk.css",
-    "static/js/main.41b2675d.chunk.js"
+    "static/js/main.0096bc73.chunk.js"
   ]
 }
