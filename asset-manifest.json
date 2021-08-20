@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/teletix/static/css/main.6d3adef7.chunk.css",
+    "main.js": "/teletix/static/js/main.41b2675d.chunk.js",
+    "main.js.map": "/teletix/static/js/main.41b2675d.chunk.js.map",
+    "runtime-main.js": "/teletix/static/js/runtime-main.55fef1c1.js",
+    "runtime-main.js.map": "/teletix/static/js/runtime-main.55fef1c1.js.map",
+    "static/css/2.9082872e.chunk.css": "/teletix/static/css/2.9082872e.chunk.css",
+    "static/js/2.429edb81.chunk.js": "/teletix/static/js/2.429edb81.chunk.js",
+    "static/js/2.429edb81.chunk.js.map": "/teletix/static/js/2.429edb81.chunk.js.map",
+    "index.html": "/teletix/index.html",
+    "static/css/2.9082872e.chunk.css.map": "/teletix/static/css/2.9082872e.chunk.css.map",
+    "static/css/main.6d3adef7.chunk.css.map": "/teletix/static/css/main.6d3adef7.chunk.css.map",
+    "static/js/2.429edb81.chunk.js.LICENSE.txt": "/teletix/static/js/2.429edb81.chunk.js.LICENSE.txt",
+    "static/media/maincircle.9f1e6157.png": "/teletix/static/media/maincircle.9f1e6157.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55fef1c1.js",
+    "static/css/2.9082872e.chunk.css",
+    "static/js/2.429edb81.chunk.js",
+    "static/css/main.6d3adef7.chunk.css",
+    "static/js/main.41b2675d.chunk.js"
+  ]
+}
