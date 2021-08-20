@@ -1,0 +1,58 @@
+.footer {
+    position: relative;
+    height: 60px;
+    background: white;
+    border-top: 10px solid rgba(224, 224, 224, 0.87);
+    display: flex;
+    justify-content: space-around;
+    padding: 16px 0px 0px 0px;
+    
+    
+    
+    
+   
+}
+.footer .fas{
+    position: relative;
+    font-size: 24px;
+    color: rgb(177, 177, 177);
+    left: 0px;
+    bottom: 2px;
+    
+    
+}
+
+
+
+
+
+
+
+.footer i:hover{
+    color: rgb(97, 97, 255);
+}
+@media only screen and (min-width: 600px) {
+    .footer{
+        
+        position: relative;
+        height: 70px;
+        color: smokewhite;
+    }
+    .footer .fas{
+        position: relative;
+        font-size: 30px;
+        left: 0px;
+    }
+    }
+
+    @media only screen and (min-width: 700px) {
+        
+        .footer  i h5{
+            display: block;
+            position: relative;
+            right: 8px;
+            height: 70px;
+            
+        }
+        
+        }

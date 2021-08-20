@@ -1,0 +1,52 @@
+
+
+.Header{
+  
+  
+  height: 80px;
+  border-bottom: 2px solid rgb(212, 212, 212);
+ 
+  
+}
+
+.nav-item i{
+  float: right;
+  padding: 12px 10px 0px 0px;
+  margin: 0px 10px;
+  font-size: 30px;
+  color: #439DDE;
+}
+
+.nav-item i:hover{
+  color: blue;
+  
+}
+ .nav-item .dashboard{
+ text-align: left;
+ padding:16px;
+  font-size: 24px;
+  text-decoration: none;
+  color: #439DDE;
+} 
+.nav a:hover{
+  color: blue;
+}
+
+@media  screen and (max-width: 326px) {
+  .nav-item i{
+    float: right;
+    padding: 20px 6px 0px 0px;
+    margin: 0px 5px;
+    font-size: 16px;
+    color: #439DDE;
+  }
+
+  .nav-item .dashboard{
+    padding: 26px 0px;
+    font-size: 12px;
+  }
+}
+  
+
+
+

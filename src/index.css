@@ -1,0 +1,26 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and(max-width: 500px){
+  #Chart{
+
+      display: none;
+}
+
+
+
+}
+
+
+
+
+    
+
+
+
+

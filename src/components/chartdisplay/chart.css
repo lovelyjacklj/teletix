@@ -1,0 +1,144 @@
+ 
+ .contain{
+   height: 400px;
+   width: 100%;
+ 
+ }
+ .Chart{
+   position: relative;
+   width: 281px;
+    height: 282px;
+   
+    text-align: center;
+    border-radius: 50%;
+    color: rgb(243, 243, 243);
+    margin-left: auto;
+    margin-right: auto;
+    
+    background-color:rgb(255, 255, 255);
+} 
+.Chart img{
+  position: relative;
+  width: 281px;
+  
+}
+
+  .Chart .Rvalue{
+    position: absolute;
+    top: 35px;
+    left: 105px;
+    font-size: 24px;
+    color: white;
+  }
+  .Chart .Idlevalue{
+    position: absolute;
+    top: 65px;
+    right: 60px;
+    font-size: 24px;
+    color: white;
+  }
+  .Chart .Stopvalue{
+    position: absolute;
+    top: 170px;
+    right: 55px;
+    font-size: 24px;
+    color: white;
+  }
+  .Chart .InAvalue{
+    position: absolute;
+    top: 125px;
+    left: 40px;
+    font-size: 24px;
+    color: white;
+  }
+  .Chart .Movingvalue{
+    position: absolute;
+    top: 213px;
+    left: 106px;
+    font-size: 24px;
+    color: white;
+  }
+  .Chart .Centeredvalue{
+    position: absolute;
+    bottom: 105px;
+    left: 142px;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    color: white;
+  }
+ 
+  
+
+
+
+
+
+  /* Responsive Code css */
+ 
+
+  @media only screen and (max-width: 430px) {
+    .Chart{
+        top: 50px;
+       
+    }
+  }
+  @media only screen and (min-width: 430px) {
+    .Chart{
+        top: 50px;
+       
+    }
+  }
+  @media only screen and (max-width: 300px) {
+    .Chart{
+        width: 230px;
+        height: 230px;
+    }
+
+    .Chart img{
+      width: 230px;
+    }
+    .Chart .Rvalue{
+      position: absolute;
+      top: 25px;
+      left: 85px;
+    }
+    .Chart .Idlevalue{
+      position: absolute;
+      top: 50px;
+      right: 45px;
+      font-size: 24px;
+      color: white;
+  }
+  .Chart .Stopvalue{
+    position: absolute;
+    top: 135px;
+    right: 45px;
+    font-size: 24px;
+    color: white;
+  }
+
+  .Chart .InAvalue{
+    position: absolute;
+    top: 98px;
+    left: 30px;
+    font-size: 24px;
+    color: white;
+  }
+  .Chart .Movingvalue{
+    position: absolute;
+    top: 175px;
+    left: 88px;
+    font-size: 24px;
+    color: white;
+  }
+  .Chart .Centeredvalue{
+    position: absolute;
+    bottom: 80px;
+    left: 117px;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    color: white;
+  }
+ 
+  
+}
